@@ -1,5 +1,5 @@
 policy "restrict-availability-zones" {
-    enforcement_level = "hard-mendatory"
+    enforcement_level = "hard-mandatory"
 }
 
 policy "restrict-ec2-instance-type" {
